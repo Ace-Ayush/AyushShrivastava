@@ -22,6 +22,10 @@ body {
   box-sizing: border-box;
 }
 
+.video{
+  position: absolute
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
